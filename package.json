@@ -47,9 +47,7 @@
     "recharts": "^3.8.0",
     "tailwind-merge": "^3.5.0",
     "tailwindcss": "^4.2.1",
-    "zustand": "^5.0.11"
-  },
-  "devDependencies": {
+    "zustand": "^5.0.11",
     "@types/bcryptjs": "^2.4.6",
     "@types/node": "^25.3.5",
     "@types/react": "^19.2.14",
